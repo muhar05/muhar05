@@ -1,7 +1,7 @@
 ## About me 👋
 ### Hi there! 👋
 
-I'm Muhar Ferdiansyah, a Fullstack Engineer with a passion for creating robust, user-friendly applications. I specialize in both frontend (React, Next.js) and backend (Node.js, Express, MongoDB) development, focusing on clean code and performance optimization. I'm always exploring new technologies and contributing to open-source projects. Let's build something amazing together!
+I'm Muhar Ferdiansyah, a Fullstack Engineer with a passion for creating user-friendly applications. I specialize in both frontend (React, Next.js) and backend (Node.js, Express, MongoDB) development, focusing on clean code and performance optimization. I'm always exploring new technologies and contributing to open-source projects. Let's build something amazing together!
 
 Feel free to explore my repositories, and don't hesitate to connect if you'd like to collaborate or chat about tech!
 
