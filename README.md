@@ -23,6 +23,8 @@ Let's create something impactful together! 🚀
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=muhar05&theme=tokyonight&hide_border=false)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhar05&layout=compact&langs_count=6&theme=tokyonight)
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
