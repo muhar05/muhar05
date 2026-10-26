@@ -69,13 +69,6 @@ const muhar = {
 
 </div>
 
-<!-- ============ ACTIVITY GRAPH ============ -->
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/58a6ff/muhar05" alt="muhar05 GitHub contribution chart" width="100%" />
-</div>
-
 <!-- ============ CONNECT ============ -->
 ## 🤝 Let's Connect
 
